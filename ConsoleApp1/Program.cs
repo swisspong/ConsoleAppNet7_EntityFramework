@@ -16,7 +16,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //tes tgit 
             var builder = new ConfigurationBuilder();
             BuildConfig(builder);
 
